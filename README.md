@@ -7,7 +7,7 @@ I build analytical reports and portfolio data pipelines, combining financial-dom
 
 ## Featured project — Power BI Financial Analysis
 
-**[Explore Financial Intelligence: 8-page portfolio case study](./power-bi-financial-analysis/)**
+**[Explore Financial Intelligence: 8-page portfolio case study](https://github.com/hjkim20022/power-bi-financial-analysis-portfolio)**
 
 An eight-page financial reporting project covering:
 - Executive performance overview with revenue, cost of sales, gross profit and net profit
@@ -16,9 +16,9 @@ An eight-page financial reporting project covering:
 - Financial Health (Ratios 1): liquidity, profitability and solvency
 - Reporting design improvements, DAX validation and consistent formatting
 
-**[Open the portfolio website HTML](./power-bi-financial-analysis/index.html)** · **[Read the redesign checklist](./power-bi-financial-analysis/IMPLEMENTATION_CHECKLIST.md)**
+**[Open the portfolio website HTML](https://github.com/hjkim20022/power-bi-financial-analysis-portfolio/blob/main/index.html)** · **[Read the redesign checklist](https://github.com/hjkim20022/power-bi-financial-analysis-portfolio/blob/main/IMPLEMENTATION_CHECKLIST.md)**
 
-**Project disclosure:** A functioning PBIX report is the source of the case study. The public website is a polished, interactive *design prototype*, not the live Power BI service report; the Desktop redesign is still being implemented. Values shown from the original screenshot are illustrative of the source report and should not be treated as externally audited figures. The PBIX file and underlying model are not publicly shared.
+**Project disclosure:** A functioning PBIX report is the source of the case study. The separate project repository contains a polished, interactive website *design prototype*, not the live Power BI service report; the Desktop redesign is still being implemented. Values shown from the original screenshot are illustrative of the source report and should not be treated as externally audited figures. The PBIX file and underlying model are not publicly shared.
 
 ## Other public repositories
 
