@@ -4,7 +4,7 @@
 
 > **Project status:** The eight-page Power BI report exists. The public GitHub presentation is a **design concept and project case study**, not a completed redesign of the `.pbix` file. The original public Power BI link is unavailable, so this GitHub project is accessible without a Power BI account.
 
-**[View the eight-page website prototype](./index.html)** (the interactive HTML opens as a website after GitHub Pages is enabled).  
+**[Explore the eight-page design prototype](./index.html)** · [Power BI design checklist](./IMPLEMENTATION_CHECKLIST.md)  
 **[Review the redesign and validation checklist](./REDESIGN_AND_VALIDATION.md)**
 
 ## Project at a glance
